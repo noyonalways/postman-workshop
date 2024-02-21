@@ -133,7 +133,7 @@ When discussing Postman collections, it's essential to delve into Postman variab
 
 ## Postman Variables Diagram
 
-<img src='https://i.ibb.co/c2yvgRN/postman-variables-diagram.png' alt='postman-variables-diagram' width='100%'>
+<img src='https://i.ibb.co/8mqvSrf/postman-var.png' alt='postman-variables-diagram' width='100%'>
 
 ## Postman Scripts Diagram
 
