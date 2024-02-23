@@ -1,4 +1,4 @@
-<img src='https://i.ibb.co/K9bDjSv/Day-1-Mastering-API-Testing-and-Environment-Management-on-Postman.jpg' width='100%' alt='banner-image' style='border-radius: 10px' />
+<img src='https://i.ibb.co/0chDNkS/postman-workshop-day-1.png' width='100%' alt='banner-image' />
 
 # Day- 01: Mastering API Testing Environment Management
 
@@ -133,7 +133,7 @@ When discussing Postman collections, it's essential to delve into Postman variab
 
 ## Postman Variables Diagram
 
-<img src='https://i.ibb.co/8mqvSrf/postman-var.png' alt='postman-variables-diagram' width='100%'>
+<img  src='https://i.ibb.co/8mqvSrf/postman-var.png' alt='postman-variables-diagram' width='100%'>
 
 ## Postman Scripts Diagram
 
