@@ -1,6 +1,6 @@
 <img src='https://i.ibb.co/0chDNkS/postman-workshop-day-1.png' width='100%' alt='banner-image' />
 
-# Day- 01: Mastering API Testing Environment Management
+# Day - 01: Mastering API Testing Environment Management
 
 ## ToTo Company (API Providers)
 

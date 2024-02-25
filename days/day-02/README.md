@@ -1,4 +1,4 @@
-<img src='https://i.ibb.co/0chDNkS/postman-workshop-day-1.png' width='100%' alt='banner-image' />
+<img src='https://i.ibb.co/CQBx5WY/postman-workshop-day-2.png' width='100%' alt='banner-image' />
 
 # Day - 02: Mastering Postman: Documentation, Collaboration, Data Driven Tasks, Monitors, Newman & OAuth2.0
 
