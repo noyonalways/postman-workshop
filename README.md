@@ -10,8 +10,7 @@
     <img src='https://img.shields.io/badge/⭐%20Star%20Repo-gray' alt='star-repo'>
   </a>
   <img src="https://img.shields.io/github/contributors/noyonalways/postman-workshop" alt="github-contributors" >
-  <img src="https://img.shields.io/github/commit-activity/t/noyonalways/postman-workshop/main?style=flat
-  " alt="github-repo-commits" >
+  <img src="https://img.shields.io/github/commit-activity/t/noyonalways/postman-workshop/main?style=flat" alt="github-repo-commits" >
   <img src="https://img.shields.io/github/stars/noyonalways/postman-workshop?style=flat" alt="github-repo-stars">
   <img src='https://img.shields.io/github/forks/noyonalways/postman-workshop?style=flat' alt='forks-repo'>
   <img src='https://img.shields.io/github/followers/noyonalways?style=flat' alt='github-followers'>
