@@ -24,6 +24,18 @@
 | Day - 02  | [Mastering Postman: Documentation, Collaboration, Data Driven Tasks, Monitors, Newman & OAuth2.0](./days/day-02/README.md#day---02) |
 | Day - 03  | [Streamlining API Development with Mock Servers, Newman, and Data Flows](./days/day-03/README.md#day---03)                          |
 
+## 🚀 Getting Started
+
+Clone the repository and start read the docs today!
+
+```sh
+git clone https://github.com/your-username/postman-workshop.git
+```
+
+```sh
+cd postman-workshop
+```
+
 ### Connect with me
 
 <div align="center">
