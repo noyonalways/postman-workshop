@@ -2,7 +2,7 @@
 
 # Day - 01: Mastering API Testing Environment Management
 
-## ToTo Company (API Providers)
+Suppose there is a company called **ToTo Company (API Providers)** which provides the following services.
 
 ### API Types:
 

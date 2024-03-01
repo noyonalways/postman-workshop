@@ -116,7 +116,7 @@ pm.test(
 
 In Postman, monitoring refers to the process of continuously monitoring APIs for performance, availability, and functionality. Postman Monitoring allows you to schedule and run API tests at regular intervals from multiple global locations. This helps you ensure that your APIs are functioning as expected and meeting performance requirements. You can enable monitoring for your collection by navigating to Monitors from the left sidebar of your Postman interface.
 
-Key features of monitoring in Postman include:
+**Key features of monitoring in Postman include:**
 
 1. **Scheduled Tests:** You can schedule API tests to run at specific intervals, such as every minute, hourly, daily, etc. This allows you to monitor your APIs continuously and detect any issues or performance degradation over time.
 2. **Global Locations:** Postman provides a network of global monitoring locations from which you can run your tests. This allows you to simulate requests from different geographic regions and ensure that your APIs perform well for users worldwide.
@@ -166,7 +166,7 @@ The Authorization Code Flow is an OAuth 2.0 authentication flow used by applicat
 7. **Accessing Protected Resources:** The application includes the access token in subsequent requests to the resource server when accessing protected resources. The resource server validates the access token and grants access to the requested resources if the token is valid and authorized.
 8. **Token Expiry and Refresh:** Access tokens typically have a limited lifespan. When an access token expires, the application can use the refresh token (if provided) to obtain a new access token without requiring the user to re-authenticate.
 
-To handle the Authorization Code flow effectively in Postman, follow these steps:
+**To handle the Authorization Code flow effectively in Postman, follow these steps:**
 
 1. Click on your collection name to open it.
 2. Navigate to the Authorization tab.
@@ -176,4 +176,4 @@ To handle the Authorization Code flow effectively in Postman, follow these steps
 6. Enter the Access Token URL. This is the endpoint where your OAuth service provides access tokens. Again, you can obtain this URL from your Auth0 dashboard if you're using Auth0.
 7. Now, click on "Get New Access Token".
 
-Note: To mimic the "Authorization Code" Flow, ensure that you have enabled the "Authorization code" grant type on your Auth server. This step is crucial for simulating the Authorization Code Flow correctly in Postman.
+**Note:** To mimic the "Authorization Code" Flow, ensure that you have enabled the "Authorization code" grant type on your Auth server. This step is crucial for simulating the Authorization Code Flow correctly in Postman.
