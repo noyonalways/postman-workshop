@@ -24,6 +24,16 @@
 | Day - 02  | [Mastering Postman: Documentation, Collaboration, Data Driven Tasks, Monitors, Newman & OAuth2.0](./days/day-02/README.md#day---02) |
 | Day - 03  | [Streamlining API Development with Mock Servers, Newman, and Data Flows](./days/day-03/README.md#day---03)                          |
 
+## 🔗 [Pro Postman Workshop YouTube Playlist](https://www.youtube.com/playlist?list=PL_XxuZqN0xVAw_wmOs1iVfdFGiAX-wGKF)
+
+- 🔥 Calling all API enthusiasts! Don't miss out on the Pro Postman Free Workshop, where you'll embark on a three-day journey to API mastery with the guidance of acclaimed mentors HM Nayem and Rasel Hossain Sir.
+
+- 🚀 Day 1: Unleash your potential as you conquer API Testing and Environment Management on Postman with the dynamic duo, HM Nayem and Rasel Hossain Sir!
+
+- 🌟 Day 2: Elevate your skills to new heights with HM Nayem and Rasel Hossain Sir as you explore the depths of Documentation, Collaboration, Data-Driven Tasks, Monitors, Newman, and OAuth 2.0 on Postman.
+
+- 💡 Day 3: Prepare to revolutionize your API Development game alongside HM Nayem and Rasel Hossain Sir as you delve into the world of Mock Servers, Newman, and Data Flows.
+
 ## 🚀 Getting Started
 
 Clone the repository and start read the docs today!
