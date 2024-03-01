@@ -29,7 +29,7 @@
 Clone the repository and start read the docs today!
 
 ```sh
-git clone https://github.com/your-username/postman-workshop.git
+git clone https://github.com/noyonalways/postman-workshop.git
 ```
 
 ```sh
