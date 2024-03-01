@@ -24,15 +24,15 @@ When creating a mock server, it's often necessary to understand the request body
 
 With template support, Postman mock servers can generate responses that vary based on the incoming request. Template helpers give you access to data from the incoming request, such as the body, query parameters, path segments, and headers. You can include that data in the response sent by the mock server.
 
-| Template helper                        | Data returned                                                                                                                  |
-| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| `{{$body}}`                            | Return the full request body                                                                                                   |
-| `{{$body "path.to.property"}}`         | Return the value of a specific property from the request body                                                                  |
-| `{{$headers "header-key"}}`            | Return the value of a specific request header                                                                                  |
-| `{{$queryParams "parameter-key"}}`     | Return the value of a specific query parameter                                                                                 |
-| `{{$pathSegments "1"}}`                | Return the second segment of the request path (for example, if the request path is `/product/12345/details` then return 12345) |
-| `{{$body "property" "default value"}}` | Define a default value for a property                                                                                          |
-| `{{$body "a\.a"}}`                     | Return the value of the property `a.a` which has a dot (.) in the key name                                                     |
+| Template helper                           | Data returned                                                                                                                  |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| 1. `{{$body}}`                            | Return the full request body                                                                                                   |
+| 2. `{{$body "path.to.property"}}`         | Return the value of a specific property from the request body                                                                  |
+| 3. `{{$headers "header-key"}}`            | Return the value of a specific request header                                                                                  |
+| 4. `{{$queryParams "parameter-key"}}`     | Return the value of a specific query parameter                                                                                 |
+| 5. `{{$pathSegments "1"}}`                | Return the second segment of the request path (for example, if the request path is `/product/12345/details` then return 12345) |
+| 6. `{{$body "property" "default value"}}` | Define a default value for a property                                                                                          |
+| 7. `{{$body "a\.a"}}`                     | Return the value of the property `a.a` which has a dot (.) in the key name                                                     |
 
 <img src='./chrome_lJFJMl6uyv.png' alt='image' width='100%' />`
 <img src='./chrome_P6ZPNYgA3i.png' alt='image' width='100%' />
